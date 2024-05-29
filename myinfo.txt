@@ -1,4 +1,4 @@
 Hello,
-My name is testuser,
-I am from cityname,
+My name is developer1,
+I am from Bangalore,
 I like Movies
